@@ -1,4 +1,4 @@
-# 📉 Prédiction du Churn Client
+# Prédiction du Churn Client
 
 Prédiction des clients susceptibles de résilier leur abonnement pour cibler les actions de rétention.
 
